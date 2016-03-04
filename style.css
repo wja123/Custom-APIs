@@ -1,0 +1,46 @@
+div{
+  /*border:2px solid black;*/
+}
+
+.img-outer-box, .birthday-outer-box{
+  height:200px;
+  /*background-color:blue;*/
+}
+
+.img-holder, .birthday-holder{
+  height:200px;
+  /*background-color:red;*/
+  margin-bottom:0%;
+  padding:5%;
+  border: 2px solid black;
+}
+
+.text-section{
+  height:200px;
+}
+
+.text-input, .text-area , .math-input, .math-area{
+  height: 190px;
+}
+
+.text-row, .math-row {
+    border:2px black solid;
+}
+
+.text-area, .birthday-holder, .math-area{
+  text-align: center;
+    border:2px black solid;
+    padding:5%;
+    font-size: xx-large;
+    color:grey;
+}
+
+.math-input{
+  font-size: small;
+      padding:5%;
+      width:100%
+}
+
+.sum-input-button, .square-input-button, .multiply-input-button{
+  display:block:;
+}
